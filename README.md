@@ -1,5 +1,5 @@
 # CPP-Advanced-Calculator
-## [Link to online version](https://onlinegdb.com/Bk9bIdapH)
+## [Link to online version](https://onlinegdb.com/HJyWbYaTr)
 My first cpp project :)
 
 Features:
@@ -10,4 +10,4 @@ Features:
 
 
 
-[![Screenshots](https://github.com/UriahShaulMandel/CPP-Advanced-Calculator/raw/master/Screenshot.png)](https://onlinegdb.com/Bk9bIdapH)
+[![Screenshots](https://github.com/UriahShaulMandel/CPP-Advanced-Calculator/raw/master/Screenshot.png)](https://onlinegdb.com/HJyWbYaTr)
