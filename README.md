@@ -1,4 +1,4 @@
-# CPP-Advanced-Calculator
+# CPP-Advanced-Calculator ![GitHub top language](https://img.shields.io/github/languages/top/UriahShaulMandel/CPP-Advanced-Calculator)
 ## [Link to online version](https://onlinegdb.com/HJyWbYaTr)
 My first cpp project :)
 
